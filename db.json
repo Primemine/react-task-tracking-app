@@ -1,0 +1,42 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": " Doctor appointment",
+      "day": "Feb 5th at 2:30",
+      "remainder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at school",
+      "day": "Feb 5th at 2:30",
+      "remainder": true
+    },
+    {
+      "id": 3,
+      "text": "Food shopping",
+      "day": "Feb 5th at 2:30",
+      "remainder": true
+    },
+    {
+      "text": "Take test",
+      "day": "Monday 4:00 pm",
+      "remainder": true,
+      "id": 4,
+      "reminder": false
+    },
+    {
+      "text": "Coding React Native",
+      "day": "Monday 4:00Pm",
+      "remainder": false,
+      "id": 5,
+      "reminder": true
+    },
+    {
+      "text": "Watching SEAL TEAM S04E06",
+      "day": "Wes 6:00PM",
+      "remainder": true,
+      "id": 6
+    }
+  ]
+}
